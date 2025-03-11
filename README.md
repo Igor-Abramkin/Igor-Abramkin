@@ -32,17 +32,4 @@ I believe in:
 - Collaborative processes that bring out the best ideas
 - Continuous learning and improvement
 
-### 🌟 Featured Projects
-
-<!-- You can add 2-3 pinned repositories here with brief descriptions -->
-
-### 📫 Let's Connect
-
-- [Portfolio](https://yourwebsite.com)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Dribbble](https://dribbble.com/yourusername)
-
----
-
 *Feel free to reach out for collaborations or just to say hi!*
