@@ -4,8 +4,6 @@
 
 I craft digital experiences that blend beautiful design with robust functionality. With a passion for creating intuitive interfaces and scalable applications, I bring ideas to life through thoughtful design and clean code.
 
----
-
 ### 🎨 Design Experience
 
 I've had the privilege of collaborating with industry leaders to create impactful digital solutions:
