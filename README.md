@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Igor
-
-## UX/UI Designer & Fullstack TypeScript Developer
+👋 Hello, I'm Igor
 
 I craft digital experiences that blend beautiful design with robust functionality. With a passion for creating intuitive interfaces and scalable applications, I bring ideas to life through thoughtful design and clean code.
 
